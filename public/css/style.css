@@ -1,0 +1,11 @@
+.sucesso{
+    font-style: italic;
+    font-weight: 650;
+    text-shadow: 3px 1px 22px rgba(53, 55, 239, 1);
+}
+.erro{
+    color:#FF000;
+    font-style: italic;
+    font-weight: 650;
+   text-shadow: 3px 1px 22px rgba(53, 55, 239, 1);
+}
